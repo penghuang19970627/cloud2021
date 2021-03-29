@@ -1,0 +1,5 @@
+com\ph\springcloud\controller\paymentConsulController.class
+com\ph\springcloud\service\impl\PaymentConsulServiceImpl.class
+com\ph\springcloud\PaymentConsulMain8003.class
+com\ph\springcloud\service\PaymentConsulService.class
+com\ph\springcloud\dao\PaymentConsulDao.class

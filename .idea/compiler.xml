@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="payment8003" />
+        <module name="payment8002" />
+        <module name="cloud-eureka-server7001" />
+        <module name="feign-order80" />
+        <module name="payment8801" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-eureka-server7003" />
+        <module name="cloud-eureka-server7002" />
+        <module name="order80" />
+        <module name="cloud-consumer-feign-hystrix-order5004" />
+        <module name="paymentConsul8003" />
+        <module name="cloud-config-center-3344" />
+        <module name="cloud-provider-hygtrix-payment8801" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud-consumer-hystrix-dashborad9001" />
+        <module name="orderConsul80" />
+        <module name="cloud-config-client-3355" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-consumer-hystrix-dashboard9001" target="1.8" />
+      <module name="cloud-hystrix-dashbroad9001" target="1.8" />
+      <module name="paymentConsul8003" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
